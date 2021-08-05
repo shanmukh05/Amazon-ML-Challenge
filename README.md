@@ -3,6 +3,9 @@
 ## Team : Elementals
 ## [Prateek](https://www.linkedin.com/in/prateekagrawal1405/) | [Manish](https://www.linkedin.com/in/manish-sharma-355ba3189/) | [Adhesh](https://www.linkedin.com/in/adhesh-reghu/) | [Shanmukh](https://www.linkedin.com/in/shanmukha-sainath-1045b2197/)
 
+![image](https://user-images.githubusercontent.com/65073329/128309895-17a5fc0b-583c-42be-ad39-692a532d9d18.png)
+
+
 ## Details of Files
 - `amazon_ml_preprocessing.ipynb` : code to preprocess text
 - `amazon_ml_translation_csv.ipynb` : code to translate
